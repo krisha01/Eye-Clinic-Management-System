@@ -1,0 +1,10 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+/nbproject/private/private.xml
+build/classes
+build/*
+nbuild/
+dist/
+ndist/
+Databank.db4o/
+
